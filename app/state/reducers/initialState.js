@@ -1,0 +1,15 @@
+export default {
+	suppliers: [],
+	communities: [],
+	currencies: [],
+	districts: [],
+	organizations: [],
+	products: [],
+	regions: [],
+	transactions: [],
+	countries: [],
+	transits: [],
+	users: [],
+	user: {},
+	alert: '',
+};
